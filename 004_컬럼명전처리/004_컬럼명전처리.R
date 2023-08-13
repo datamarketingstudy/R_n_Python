@@ -18,5 +18,3 @@ glimpse(transactions)
 ## 모두 대문자 또는 소문자로 치환할 경우 [base 이용]
 toupper(colnames(transactions)) # 대문자
 tolower(colnames(transactions)) # 소문자
-
-
